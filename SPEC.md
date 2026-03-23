@@ -57,7 +57,7 @@ https://www.iso.org/standard/70907.html
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](#introduction-informative)
 1. [Terminology and Conventions](#1-terminology-and-conventions)
 2. [Data Model](#2-data-model)
 3. [Encoding Normalization (Reference Encoder)](#3-encoding-normalization-reference-encoder)
